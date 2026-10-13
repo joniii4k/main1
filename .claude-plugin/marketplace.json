@@ -1,0 +1,11 @@
+{
+  "name": "jonas-skills",
+  "owner": { "name": "Jonas Pertschy" },
+  "plugins": [
+    {
+      "name": "jonas-design-skills",
+      "source": "./",
+      "description": "Design-, Animations- und UI-Skills für Websites und Apps"
+    }
+  ]
+}
